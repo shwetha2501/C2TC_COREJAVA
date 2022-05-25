@@ -9,8 +9,8 @@ class Main{
 	{
 		Sample a1=new Sample();
 		Sample a2=new Sample();
-		a1.weight=12;
-		a2.weight=10;
+		a1.weight=1;
+		a2.weight=2;
 		a2=a1;
 		System.out.println(a2.weight);
 		
